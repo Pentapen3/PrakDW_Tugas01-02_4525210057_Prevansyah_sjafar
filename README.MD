@@ -22,18 +22,7 @@ Tugas ini bertujuan untuk memahami penggunaan elemen HTML lanjutan dalam membuat
 
 * HTML5
 
-## Struktur File
 
-```
-.
-├── tugaspraktikum2.html
-├── potornd1.png
-├── potornd2.png
-├── potornd3.png
-├── output_1.png
-├── output_2.png
-└── README.md
-```
 
 ## Identitas
 
@@ -46,7 +35,7 @@ Tugas ini bertujuan untuk memahami penggunaan elemen HTML lanjutan dalam membuat
 ## Screenshot
 
 ### Bagian Atas Halaman
-![Tampilan bagian atas halaman](output_1.png)
+C:\Users\ASUS\OneDrive\Dokumen\PEN\LAPRAK\LAPRAK SEM 3\DESWEB\PrakDW_Tugas01-02_4525210057_Prevansyah_sjafar\hasil ouput\output 1.png
 
 ### Bagian Bawah Halaman
-![Tampilan bagian bawah halaman](output_2.png)
+C:\Users\ASUS\OneDrive\Dokumen\PEN\LAPRAK\LAPRAK SEM 3\DESWEB\PrakDW_Tugas01-02_4525210057_Prevansyah_sjafar\hasil ouput\output 2.png
