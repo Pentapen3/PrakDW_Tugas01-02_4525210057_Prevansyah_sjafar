@@ -35,7 +35,7 @@ Tugas ini bertujuan untuk memahami penggunaan elemen HTML lanjutan dalam membuat
 ## Screenshot
 
 ### Bagian Atas Halaman
-C:\Users\ASUS\OneDrive\Dokumen\PEN\LAPRAK\LAPRAK SEM 3\DESWEB\PrakDW_Tugas01-02_4525210057_Prevansyah_sjafar\hasil ouput\output 1.png
+<img src="/hasilouput/output1.png"/>
 
 ### Bagian Bawah Halaman
-C:\Users\ASUS\OneDrive\Dokumen\PEN\LAPRAK\LAPRAK SEM 3\DESWEB\PrakDW_Tugas01-02_4525210057_Prevansyah_sjafar\hasil ouput\output 2.png
+<img src="/hasilouput/output2.png"/>
