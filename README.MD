@@ -1,28 +1,52 @@
-Tugas Praktikum HTML Lanjutan
-Deskripsi
+# Tugas Praktikum HTML Lanjutan
 
-Tugas praktikum ini membuat halaman profil organisasi kampus menggunakan HTML. Organisasi yang diangkat adalah UKM Research and Development Keluarga Mahasiswa Universitas Pancasila (UKM R&D KMUP). Halaman berisi informasi organisasi, gambar logo dan hasil kerja, hyperlink, navigasi internal, link eksternal, serta list.
+## Deskripsi
 
-Fitur
-Menampilkan tiga gambar (logo UKM dan dua contoh hasil kerja) dengan atribut alt, width, dan height
-Menggunakan hyperlink internal (navigasi ke bagian Deskripsi, Kontak, dan tautan "Kembali ke atas")
-Menggunakan hyperlink eksternal (Instagram, Facebook, website Universitas Pancasila, dan daftar UKM)
-Menggunakan atribut id sebagai penanda target navigasi (beranda, deskripsi, kontak)
-Menggunakan description list (<dl>, <dt>, <dd>) untuk keterangan gambar
-Menggunakan unordered list (<ul>) untuk daftar kontak
-Menggunakan struktur semantik <header> dan <section>
-Tujuan
+Tugas praktikum ini membuat halaman profil organisasi kampus menggunakan HTML. Organisasi yang diangkat adalah **UKM Research and Development Keluarga Mahasiswa Universitas Pancasila (UKM R&D KMUP)**. Halaman berisi informasi organisasi, gambar logo dan hasil kerja, hyperlink, navigasi internal, link eksternal, serta list.
+
+## Fitur
+
+* Menampilkan tiga gambar (logo UKM dan dua contoh hasil kerja) dengan atribut `alt`, `width`, dan `height`
+* Menggunakan hyperlink internal (navigasi ke bagian Deskripsi, Kontak, dan tautan "Kembali ke atas")
+* Menggunakan hyperlink eksternal (Instagram, Facebook, website Universitas Pancasila, dan daftar UKM)
+* Menggunakan atribut `id` sebagai penanda target navigasi (`beranda`, `deskripsi`, `kontak`)
+* Menggunakan description list (`<dl>`, `<dt>`, `<dd>`) untuk keterangan gambar
+* Menggunakan unordered list (`<ul>`) untuk daftar kontak
+* Menggunakan struktur semantik `<header>` dan `<section>`
+
+## Tujuan
 
 Tugas ini bertujuan untuk memahami penggunaan elemen HTML lanjutan dalam membuat halaman profil yang memiliki struktur informasi dan navigasi yang jelas.
 
-Teknologi
-HTML5
+## Teknologi
 
-Identitas
-Nama: Prevansyah Sjafar
-NIM: 4525210057
-Fakultas: Teknik
-Program Studi: Informatika
-Tahun: 2026
+* HTML5
 
-Screenshot
+## Struktur File
+
+```
+.
+├── tugaspraktikum2.html
+├── potornd1.png
+├── potornd2.png
+├── potornd3.png
+├── output_1.png
+├── output_2.png
+└── README.md
+```
+
+## Identitas
+
+* **Nama:** Prevansyah Sjafar
+* **NIM:** 4525210057
+* **Fakultas:** Teknik
+* **Program Studi:** Informatika
+* **Tahun:** 2026
+
+## Screenshot
+
+### Bagian Atas Halaman
+![Tampilan bagian atas halaman](output_1.png)
+
+### Bagian Bawah Halaman
+![Tampilan bagian bawah halaman](output_2.png)
